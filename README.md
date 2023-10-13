@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kmagdanric
+- 👀 I’m interested in image/video manipulation
+- 📫 seungwoojung013@gmail.com
