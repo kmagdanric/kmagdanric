@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @kmagdanric
-- 👀 I’m interested in image/video manipulation
+- 👀 Developing multi-agent LLM services for consumers/sales
 - 📫 seungwoojung013@gmail.com
